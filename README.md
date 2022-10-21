@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mulindwa Denis from Uganda
 - 👀 I’m interested in solving community challenges using software
-- 🌱 I’m currently learning mobile development
-- 💞️ I’m looking to collaborate on local technology solutions of small companies in my area
+- 🌱 I’m currently learning mobile development in Flutter
+- 💞️ I’m looking to collaborate on technology solutions of small and big companies in across
 - 📫 You can reach on email mulindwadenis100@gmail.com
 
 <!---
